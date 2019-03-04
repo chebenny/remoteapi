@@ -1,0 +1,41 @@
+[
+  {
+    "ProjectGNumber": "G12100008",
+    "ProjectName": "3 D Soshanguve Ext 1. (plot 67)",
+    "ProjectPhase": "G12100008/2",
+    "ProjectType": "Essential Services Project",
+    "ProjectValue": 105000,
+    "ProjectStatus": "Approved by PHB",
+    "PlanStartDate": "20121213",
+    "PlanEndDate": "20190331",
+    "AdditionalFunding": 105000,
+    "PhaseStartDate": "20180104",
+    "PhaseEndDate": "20190331"
+  },
+  {
+    "ProjectGNumber": "G18120006",
+    "ProjectName": "3 D Sterkwater Portion 3 Of Farm No 106 Jr",
+    "ProjectPhase": "G18120006/1",
+    "ProjectType": "Essential Services Project",
+    "ProjectValue": 99461501.06,
+    "ProjectStatus": "Approved by PHB",
+    "PlanStartDate": "20181213",
+    "PlanEndDate": "20190330",
+    "AdditionalFunding": 99461501.06,
+    "PhaseStartDate": "20181213",
+    "PhaseEndDate": "20190330"
+  },
+  {
+    "ProjectGNumber": "G00010003",
+    "ProjectName": "5 A Argyle Centre",
+    "ProjectPhase": "G00010003/1",
+    "ProjectType": "Institutional Housing Project",
+    "ProjectValue": 0,
+    "ProjectStatus": "Application Received",
+    "PlanStartDate": "",
+    "PlanEndDate": "",
+    "AdditionalFunding": 0,
+    "PhaseStartDate": "",
+    "PhaseEndDate": ""
+  }
+  ]
